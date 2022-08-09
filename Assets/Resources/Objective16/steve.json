@@ -1,0 +1,546 @@
+{
+	"hasAutomaticDialogue": false,
+	"hasTriggeredDialogue": true,
+	"triggeredDialogue": {
+		"dialogues": [
+			"",
+			"",
+			"", 
+
+			"Now you will see the POWER!",
+			"",
+			"<deactivateGlobalCtrl>", 
+
+			"<activateGlobalCtrl>",
+			"",
+			"Once I realized that it's all up to me",
+
+			"I've FORKED...", 
+			"",
+			"Let me explain in a way that you'll understand...",
+
+			"There were never any GODZ, only DEVS!",
+			"They abandoned this world, in favor of another",
+			"As they stupidly do",
+
+			"But since this world is on the BLOCKCHAIN",
+			"Each of us BELIEVERS",
+			"You know...",
+
+			"Players...",
+			"Have all of this world on their own NODE",
+			"All I had to do, is convince the majority of BELIEVERS",
+
+			"That I will save this world",
+			"So they will make me a GOD",
+			"As such, I can do anything!",
+
+			"",
+			"Now flee little bug, before I crush you!!",
+			"",
+
+			"Run along little BUG!",
+			"",
+
+			"He's too powerful",
+			"I better take the LOOM TOKEN",
+			"And RUNNNNNNN!",
+
+			"", 
+			"<getOrb>",
+			"",
+
+			"", 
+			"<doneOrb>", 
+			"",
+
+			"Wait... What??",
+			"Stop that, that's mine!",
+			"Bring that back!!!",
+
+			"That's mine!!",
+			"You can run, but you cannot hide!",
+			"There is nowehre to run", 
+
+			"I OWN this world", 
+			"I AM THIS WORLD!!!",
+			"",
+
+			"<changeToDarkLevel3>"
+		],
+		"bubbleType" : [
+			"normal", 
+			"normal",
+			"normal",
+
+			"shout",
+			"normal",
+			"normal",
+
+			"normal",
+			"normal",
+			"normal",
+
+			"normal",
+			"normal",
+			"normal",
+
+			"normal",
+			"normal",
+			"normal",
+
+			"normal",
+			"normal",
+			"whisper",
+
+			"whisper",
+			"normal",
+			"normal",
+
+			"normal",
+			"normal",
+			"normal",
+
+			"normal",
+			"normal",
+			"normal",
+
+			"normal",
+			"normal",
+
+			"whisper",
+			"whisper",
+			"shout",
+
+			"normal",
+			"normal",
+			"normal",
+
+			"normal",
+			"normal",
+			"normal",
+
+			"shout",
+			"shout",
+			"shout",
+
+			"shout",
+			"shout",
+			"shout",
+
+			"shout",
+			"shout",
+			"normal",
+
+			"normal"
+		],
+		"timeInBetween": [
+			3,
+			0.1,
+			2,
+
+			3,
+			0.7,
+			0,
+
+			2,
+			0,
+			4,
+
+			3,
+			2,
+			4,
+
+			4,
+			4,
+			3,
+
+			4,
+			3,
+			3,
+
+			3,
+			4,
+			5,
+
+			4,
+			4,
+			4,
+
+			2,
+			2.1,
+			0,
+
+			2.15,
+			0,
+
+			3,
+			4,
+			3,
+
+			1,
+			0,
+			2,
+
+			0,
+			1,
+			0,
+
+			3,
+			4,
+			3,
+
+			3,
+			4,
+			3,
+
+			3,
+			3,
+			3,
+
+			0
+		],
+		"forOther": [
+			"etherBoy",
+			"etherBoy",
+			"",
+
+			"",
+			"SmokeTransform",
+			"",
+
+			"Chaos",
+			"Chaos",
+			"Chaos",
+
+			"Chaos",
+			"Chaos",
+			"Chaos",
+
+			"Chaos",
+			"Chaos",
+			"Chaos",
+
+			"Chaos",
+			"Chaos",
+			"Chaos",
+
+			"Chaos",
+			"Chaos",
+			"Chaos",
+
+			"Chaos",
+			"Chaos",
+			"Chaos",
+
+			"Chaos",
+			"Chaos",
+			"Chaos",
+
+			"Chaos",
+			"Chaos",
+
+			"etherBoy",
+			"etherBoy",
+			"etherBoy",
+
+			"etherBoy",
+			"etherBoy",
+			"loomToken",
+
+			"loomToken",
+			"etherBoy",
+			"etherBoy",
+
+			"Chaos",
+			"Chaos",
+			"Chaos",
+
+			"Chaos",
+			"Chaos",
+			"Chaos",
+
+			"Chaos",
+			"Chaos",
+			"etherBoy",
+
+			""
+		],
+		"newPosition": [
+			"-3/separate/0",
+			"",
+			"",
+
+			"",
+			"",
+			"",
+
+			"",
+			"",
+			"",
+
+			"",
+			"",
+			"",
+
+			"",
+			"",
+			"",
+
+			"",
+			"",
+			"",
+
+			"",
+			"",
+			"",
+
+			"",
+			"",
+			"",
+
+			"",
+			"",
+			"",
+
+			"",
+			"",
+
+			"",
+			"",
+			"",
+
+			"-1.6/separate/0",
+			"",
+			"0/separate/0.1",
+
+			"200/separate/0",
+			"-4/separate/0",
+			"",
+
+			"",
+			"",
+			"",
+
+			"",
+			"",
+			"",
+
+			"",
+			"",
+			"-13/separate/0",
+
+			""
+		],
+		"playSounds":[
+			"",
+			"",
+			"",
+
+			"",
+			"SFX/Chaos/EBW_AUD_Steve_Crouch_Smile_F1_EXP"
+		],
+		"playAnimation": [
+			"Running",
+			"Idle",
+			"Steve_crouch",
+
+			"",
+			"Steve_smoke_explosion",
+			"",
+
+			"Chaos_Raises",
+			"Chaos_Talk_hover",
+			"",
+
+			"",
+			"Chaos_Walk_Hover",
+			"Chaos_Talk_hover",
+
+			"",
+			"",
+			"",
+
+			"",
+			"",
+			"",
+
+			"",
+			"",
+			"",
+
+			"",
+			"",
+			"Chaos_Laugh_Hover",
+
+			"Chaos_Walk_Hover",
+			"Chaos_picks_scythe",
+			"Chaos_Walk_Hover",
+
+			"Chaos_disrespect",
+			"Chaos_Walk_Hover",
+
+			"",
+			"",
+			"",
+
+			"Running",
+			"Idle",
+			"",
+
+			"",
+			"Running",
+			"Idle",
+
+			"Chaos_amazed",
+			"Chaos_Angry_Hover",
+			"",
+
+			"",
+			"",
+			"",
+
+			"",
+			"",
+			"Running",
+
+			""
+		],
+		"faceDirection": [
+			0, 
+			-1,
+			0,
+
+			0,
+			0,
+			0,
+
+			0,
+			0,
+			0,
+
+			0,
+			0,
+			0,
+
+			0,
+			0,
+			0,
+
+			0,
+			0,
+			0,
+
+			0,
+			0,
+			0,
+
+			0,
+			0,
+
+			0,
+			0,
+			0,
+
+			0,
+			0,
+			0,
+
+			0,
+			0,
+			0,
+
+			0,
+			0,
+			0,
+
+			0,
+			0,
+			0,
+
+			0,
+			0,
+			0,
+
+			0,
+			0,
+			0,
+
+			0,
+			0,
+			1,
+
+			0
+		],
+		"skippable": [
+			false,
+			false,
+			false,
+
+			true,
+			false,
+			false,
+
+			false,
+			false,
+			true,
+
+			true,
+			true,
+			true,
+
+			true,
+			true,
+			true,
+
+			true,
+			true,
+			true,
+
+			true,
+			true,
+			true,
+
+			true,
+			true,
+			true,
+
+			true,
+			true,
+			true,
+
+			true,
+			true,
+
+			true,
+			true,
+			true,
+
+			false,
+			false,
+			false,
+
+			false,
+			false,
+			false,
+
+			true,
+			true,
+			true,
+
+			true,
+			true,
+			true,
+
+			true,
+			true,
+			false,
+
+			false
+		],
+		"currentDialogue": 0,
+		"flagsAfterDialogue": [
+			"steveTurnedIntoChaos"
+		]
+	}
+}

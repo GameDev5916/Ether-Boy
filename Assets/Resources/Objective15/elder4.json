@@ -1,0 +1,131 @@
+{
+	"hasAutomaticDialogue": false,
+	"hasTriggeredDialogue": true,
+	"triggeredDialogue": {
+		"dialogues": [
+			"",
+			"",
+			"Do you have it?",
+			"Aha",
+			"",
+			"",
+			"",
+			"<magicBook>",
+			"OH MY",
+			"I Feel floating!!!",
+			"You can use water to freeze your foes!",
+			"now go on, get the token!!",
+			"",
+			"<deactivateGlobalCtrl>"
+		],
+		"timeInBetween": [
+			1,
+			0.1,
+			3,
+			2,
+			7,
+			0.1,
+			4.25,
+			0,
+			2,
+			4,
+			6,
+			5,
+			1,
+			0
+		],
+		"forOther": [
+			"etherBoy",
+			"etherBoy",
+			"",
+			"etherBoy",
+			"",
+			"",
+			"etherBoy",
+			"",
+			"etherBoy",
+			"etherBoy",
+			"",
+			"",
+			"",
+			""
+		],
+		"newPosition": [
+			"-1/separate/0",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"-3/separate/0",
+			""
+		],
+		"playAnimation": [
+			"Running",
+			"Idle",
+			"",
+
+			"",
+			"AbsorbIceMagic",
+			"Idle",
+
+			"receiveIce",
+			"",
+			"Idle",
+			"",
+
+			"",
+			"",
+			"Running",
+			""
+		],
+		"playSounds": [
+			"",
+			"",
+			"",
+
+			"",
+			"SFX/Elder/EBW_AUD_Mentor_Absorb_Give_Magic_F1_EXP",
+			"",
+
+			"SFX/Etherboy/EBW_AUD_Receive_Magic_F1_EXP",
+			"",
+			"",
+			"",
+
+			"",
+			"",
+			"",
+			""
+		],
+		"faceDirection": [
+			0, -1
+		],
+		"skippable": [
+			false,
+			false,
+			true,
+			true,
+			false,
+			false,
+			false,
+			false,
+			true,
+			true,
+			true,
+			true,
+			false,
+			false
+		],
+		"currentDialogue": 0,
+		"flagsAfterDialogue": [
+			"etherBoyTalkedWithMentorInTemple"
+		]
+	}
+}

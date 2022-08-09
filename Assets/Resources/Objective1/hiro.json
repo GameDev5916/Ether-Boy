@@ -1,0 +1,34 @@
+{
+    "hasAutomaticDialogue":true,
+    "hasTriggeredDialogue":false,
+    "automaticDialogue":{
+        "dialogues":[
+            "...then I punched that DRAGON in the sniffer! HARHAR...",
+			"...oh he's so dreamy...",
+			"...one day he'll be all mine..."
+        ],
+		"bubbleType":[
+			"normal",
+			"shout",
+			"normal"
+		],
+        "timeInBetween":[
+            4,
+			3,
+			3
+        ],
+		"forOther":[
+			"",
+			"randomGirl2",
+			"randomGirl1"
+		],
+		"bubbleDirection":[
+			"left",
+			"left",
+			"right"
+		],
+        "currentDialogue":0,
+        "flagsAfterDialogue":[
+        ]
+    }
+}
